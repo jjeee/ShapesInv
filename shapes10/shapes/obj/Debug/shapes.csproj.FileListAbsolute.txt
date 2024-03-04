@@ -1,0 +1,16 @@
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\bin\Debug\shapes.exe.config
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\bin\Debug\shapes.exe
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\bin\Debug\shapes.pdb
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.csprojResolveAssemblyReference.cache
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.AddRightTriangle.resources
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.Main.resources
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.Properties.Resources.resources
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.csproj.GenerateResource.Cache
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.exe
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.pdb
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.AddCircle.resources
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.AddRectangle.resources
+C:\Users\Big Osiris\Desktop\209\CIS209-Shapes-master\shapes\obj\Debug\shapes.AddSquare.resources
+C:\Users\Big Osiris\Desktop\209\shapes10\shapes\bin\Debug\shapes.exe.config
+C:\Users\Big Osiris\Desktop\209\shapes10\shapes\obj\Debug\shapes.exe
+C:\Users\Big Osiris\Desktop\209\shapes10\shapes\obj\Debug\shapes.pdb
